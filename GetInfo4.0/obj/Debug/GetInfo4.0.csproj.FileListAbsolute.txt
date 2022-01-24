@@ -1,0 +1,8 @@
+C:\Users\costin\source\repos\GetInfo4.0\GetInfo4.0\bin\Debug\GetInfo4.0.exe
+C:\Users\costin\source\repos\GetInfo4.0\GetInfo4.0\bin\Debug\GetInfo4.0.pdb
+C:\Users\costin\source\repos\GetInfo4.0\GetInfo4.0\obj\Debug\GetInfo4.0.csproj.AssemblyReference.cache
+C:\Users\costin\source\repos\GetInfo4.0\GetInfo4.0\obj\Debug\Interop.Shell32.dll
+C:\Users\costin\source\repos\GetInfo4.0\GetInfo4.0\obj\Debug\GetInfo4.0.csproj.ResolveComReference.cache
+C:\Users\costin\source\repos\GetInfo4.0\GetInfo4.0\obj\Debug\GetInfo4.0.csproj.CoreCompileInputs.cache
+C:\Users\costin\source\repos\GetInfo4.0\GetInfo4.0\obj\Debug\GetInfo4.0.exe
+C:\Users\costin\source\repos\GetInfo4.0\GetInfo4.0\obj\Debug\GetInfo4.0.pdb
